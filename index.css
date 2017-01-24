@@ -1,0 +1,25 @@
+h1,h2,h3,h4,h5,h6{
+	text-align: center;
+}
+.div-center{
+	margin: 0 auto 0 auto;
+	display: block;
+}
+#no-location,#api-not-work{
+	display: none; 
+}
+.pointer{
+	cursor: pointer;
+}
+.full-width{
+	width: 100%;
+}
+.blue{
+	color: lightblue;
+}
+.blue:hover{
+	color: blue;
+}
+.imgsize{
+	width: 100px;
+}
